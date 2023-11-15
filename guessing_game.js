@@ -15,7 +15,7 @@ whether the guess was correct , greater or lesser than the original number.
      else if(randomNumber < userNumber)
      console.log("Sorry Your Number is greater than random Number :")
      else
-     console.log("Congretulations....Correct Number is : ", userNumber)
+     console.log("Congratulations....Correct Number is : ", userNumber)
      count++;
  }while(randomNumber != userNumber)
  
